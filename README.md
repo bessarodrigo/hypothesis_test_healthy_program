@@ -1,4 +1,4 @@
-# Teste de Hipóteses - Teste de Colesterol dos Colaboradores
+# Teste de Hipóteses - Colesterol dos Colaboradores
 ## Média de Uma População
 
 # Problema de Negócio
